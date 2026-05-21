@@ -19,9 +19,9 @@ An Arduino-based hydration monitoring system that tracks water levels, reminds u
 
 ## Authors
 - M Udhaya
-- Aditya A S (24011102004)
-- J Sidtharth (24011102037)
-- M Rathish Roshaan (24011102051)
+- Aditya A S 
+- J Sidtharth 
+- M Rathish Roshaan
 
 ## Project Report
 Included in `/docs`
